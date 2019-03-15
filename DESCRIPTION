@@ -1,11 +1,13 @@
 Package: tchtypr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Text Analysis for Touch Typing Training
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Authors@R: as.person(c(
+    "Richard Edge <richard.f.edge@gmail.com> [aut, cre]"))
+Description: Functions for analysing language corpora, to inform development of
+    touch typing training. Note: learning by doing project.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/richardfedge/tchtypr
+BugReports: https://github.com/richardfedge/tchtypr/issues
