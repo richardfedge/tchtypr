@@ -6,7 +6,7 @@ Authors@R: as.person(c(
     "Richard Edge <richard.f.edge@gmail.com> [aut, cre]"))
 Description: Functions for analysing language corpora, to inform development of
     touch typing training. Note: learning by doing project.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/richardfedge/tchtypr
